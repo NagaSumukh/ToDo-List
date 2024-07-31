@@ -34,7 +34,6 @@ This is a full-stack Todo application with a React frontend and Node.js backend.
 
 - Node.js (v14.x or higher)
 - npm or yarn
-- Heroku CLI (if deploying to Heroku)
 - Git
 
 ### Backend Setup
